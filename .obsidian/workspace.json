@@ -4,15 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "ba5a84139a7b3c62",
+        "id": "b972620fc1071964",
         "type": "tabs",
         "children": [
           {
-            "id": "30ed817f5b6cfc46",
+            "id": "59244279360bce40",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "forest_story/01 - The beginning.md",
+                "mode": "preview",
+                "source": false
+              }
             }
           }
         ]
@@ -81,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "forest_story/01 - The beginning.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "forest_story/01 - The beginning.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -121,11 +125,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "forest_story/01 - The beginning.md"
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -143,13 +148,15 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "2133f190e2b56a30",
+  "active": "59244279360bce40",
   "lastOpenFiles": [
-    "forest_story/01 - Начало.md",
+    "forest_story/06 - The cave inside.md",
+    "forest_story/05 - The cave entrance.md",
+    "forest_story/03 - Right from the meadow.md",
+    "forest_story/01 - The beginning.md",
+    "forest_story/02 - Left from the meadow.md",
+    "forest_story/04 - The brook.md",
     "плагины.md",
-    "forest_story/04 - Ручей.md",
-    "forest_story/03 - Направо с поляны.md",
-    "forest_story/02 - Налево с поляны.md",
     "README.md",
     "Scripts/my_script.js.md",
     "Scripts/my_script.js",
