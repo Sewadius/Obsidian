@@ -1,0 +1,164 @@
+{
+  "main": {
+    "id": "98bcddca2375a103",
+    "type": "split",
+    "children": [
+      {
+        "id": "a53a9c50cba60ca4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7585388bad12156c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "forest_story/01 - Начало.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "f731c18159cc5c65",
+    "type": "split",
+    "children": [
+      {
+        "id": "4bf282848679afc6",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2133f190e2b56a30",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "7109a51ae17bbcfe",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "db59a51a8cf25a89",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "fcd388d3030ed0cd",
+    "type": "split",
+    "children": [
+      {
+        "id": "2e82f90712007a60",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "bb659bb96f9bf743",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "forest_story/01 - Начало.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "2bca52585ae248da",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "forest_story/01 - Начало.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "527c8435e13396cf",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "73d71e04a39778c8",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "forest_story/01 - Начало.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Меню быстрого перехода": false,
+      "graph:Граф": false,
+      "canvas:Создать новый холст": false,
+      "daily-notes:Сегодняшняя заметка": false,
+      "templates:Вставить шаблон": false,
+      "command-palette:Открыть палитру команд": false,
+      "templater-obsidian:Templater": false
+    }
+  },
+  "active": "2133f190e2b56a30",
+  "lastOpenFiles": [
+    "README.md",
+    "forest_story/01 - Начало.md",
+    "forest_story/03 - Направо с поляны.md",
+    "forest_story/02 - Налево с поляны.md",
+    "Scripts/my_script.js.md",
+    "Scripts/my_script.js",
+    "Scripts",
+    "forest_story",
+    "markdown_practice/Test.md",
+    "markdown_practice/Без названия.canvas",
+    "markdown_practice"
+  ]
+}
