@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "a53a9c50cba60ca4",
+        "id": "ba5a84139a7b3c62",
         "type": "tabs",
         "children": [
           {
-            "id": "7585388bad12156c",
+            "id": "30ed817f5b6cfc46",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "forest_story/01 - Начало.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "forest_story/01 - Начало.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +98,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "forest_story/01 - Начало.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +121,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "forest_story/01 - Начало.md"
+                "file": "README.md"
               }
             }
           }
@@ -149,10 +145,12 @@
   },
   "active": "2133f190e2b56a30",
   "lastOpenFiles": [
-    "README.md",
     "forest_story/01 - Начало.md",
+    "плагины.md",
+    "forest_story/04 - Ручей.md",
     "forest_story/03 - Направо с поляны.md",
     "forest_story/02 - Налево с поляны.md",
+    "README.md",
     "Scripts/my_script.js.md",
     "Scripts/my_script.js",
     "Scripts",
