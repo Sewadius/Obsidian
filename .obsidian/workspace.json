@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "forest_story/01 - The beginning.md",
+                "file": "psychology/CBT/automatic_thoughts/001_Failed at work.md",
                 "mode": "preview",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "forest_story/01 - The beginning.md",
+                "file": "psychology/CBT/automatic_thoughts/001_Failed at work.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "forest_story/01 - The beginning.md",
+                "file": "psychology/CBT/automatic_thoughts/001_Failed at work.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "forest_story/01 - The beginning.md"
+                "file": "psychology/CBT/automatic_thoughts/001_Failed at work.md"
               }
             }
           }
@@ -150,10 +150,14 @@
   },
   "active": "59244279360bce40",
   "lastOpenFiles": [
+    "forest_story/01 - The beginning.md",
+    "psychology/CBT/automatic_thoughts/001_Failed at work.md",
+    "psychology/CBT/automatic_thoughts",
+    "psychology/CBT",
+    "psychology",
     "forest_story/06 - The cave inside.md",
     "forest_story/05 - The cave entrance.md",
     "forest_story/03 - Right from the meadow.md",
-    "forest_story/01 - The beginning.md",
     "forest_story/02 - Left from the meadow.md",
     "forest_story/04 - The brook.md",
     "плагины.md",
