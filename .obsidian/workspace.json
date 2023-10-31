@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "b972620fc1071964",
+        "id": "7e17bee0cddfca72",
         "type": "tabs",
         "children": [
           {
-            "id": "59244279360bce40",
+            "id": "b65c9a61741d1383",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "psychology/CBT/automatic_thoughts/002_Blocked user.md",
+                "file": "psychology/CBT/coping_cards/World.md",
                 "mode": "preview",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "psychology/CBT/automatic_thoughts/002_Blocked user.md",
+                "file": "psychology/CBT/coping_cards/World.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "psychology/CBT/automatic_thoughts/002_Blocked user.md",
+                "file": "psychology/CBT/coping_cards/World.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "psychology/CBT/automatic_thoughts/002_Blocked user.md"
+                "file": "psychology/CBT/coping_cards/World.md"
               }
             }
           }
@@ -148,11 +148,22 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "59244279360bce40",
+  "active": "b65c9a61741d1383",
   "lastOpenFiles": [
-    "psychology/CBT/automatic_thoughts/001_Failed at work.md",
+    "psychology/CBT/coping_cards/Emotions.md",
+    "psychology/CBT/coping_cards/Marriage.md",
+    "psychology/CBT/coping_cards/World.md",
+    "psychology/CBT/coping_cards/Friends.md",
+    "psychology/CBT/coping_cards/Parenthood.md",
+    "psychology/CBT/coping_cards/Self-perception.md",
+    "psychology/CBT/coping_cards/Future.md",
+    "psychology/CBT/coping_cards/Life.md",
+    "psychology/CBT/coping_cards/Relations.md",
     "psychology/CBT/automatic_thoughts/002_Blocked user.md",
+    "psychology/CBT/automatic_thoughts/001_Failed at work.md",
     "psychology/CBT/automatic_thoughts/000_Template.md",
+    "psychology/CBT/coping_cards",
+    "markdown_practice/Test.md",
     "forest_story/01 - The beginning.md",
     "psychology/CBT/automatic_thoughts",
     "psychology/CBT",
@@ -168,7 +179,6 @@
     "Scripts/my_script.js",
     "Scripts",
     "forest_story",
-    "markdown_practice/Test.md",
     "markdown_practice/Без названия.canvas",
     "markdown_practice"
   ]
