@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "psychology/CBT/coping_cards/World.md",
+                "file": "psychology/CBT/coping_cards/Friends.md",
                 "mode": "preview",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "psychology/CBT/coping_cards/World.md",
+                "file": "psychology/CBT/coping_cards/Friends.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "psychology/CBT/coping_cards/World.md",
+                "file": "psychology/CBT/coping_cards/Friends.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "psychology/CBT/coping_cards/World.md"
+                "file": "psychology/CBT/coping_cards/Friends.md"
               }
             }
           }
@@ -150,9 +150,9 @@
   },
   "active": "b65c9a61741d1383",
   "lastOpenFiles": [
+    "psychology/CBT/coping_cards/World.md",
     "psychology/CBT/coping_cards/Emotions.md",
     "psychology/CBT/coping_cards/Marriage.md",
-    "psychology/CBT/coping_cards/World.md",
     "psychology/CBT/coping_cards/Friends.md",
     "psychology/CBT/coping_cards/Parenthood.md",
     "psychology/CBT/coping_cards/Self-perception.md",
