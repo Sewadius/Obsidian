@@ -4,17 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "7e17bee0cddfca72",
+        "id": "a9448f52005dfbd3",
         "type": "tabs",
         "children": [
           {
-            "id": "b65c9a61741d1383",
+            "id": "7c6de26c464438fd",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "psychology/CBT/coping_cards/Friends.md",
-                "mode": "source",
+                "file": "psychology/CBT/coping_cards/_main.md",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "psychology/CBT/coping_cards/Friends.md",
+                "file": "psychology/CBT/coping_cards/_main.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "psychology/CBT/coping_cards/Friends.md",
+                "file": "psychology/CBT/coping_cards/_main.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "psychology/CBT/coping_cards/Friends.md"
+                "file": "psychology/CBT/coping_cards/_main.md"
               }
             }
           }
@@ -139,39 +139,40 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:Open quick switcher": false,
-      "graph:Open graph view": false,
-      "canvas:Create new canvas": false,
-      "daily-notes:Open today's daily note": false,
-      "templates:Insert template": false,
-      "command-palette:Open command palette": false,
+      "switcher:Меню быстрого перехода": false,
+      "graph:Граф": false,
+      "canvas:Создать новый холст": false,
+      "daily-notes:Сегодняшняя заметка": false,
+      "templates:Вставить шаблон": false,
+      "command-palette:Открыть палитру команд": false,
       "templater-obsidian:Templater": false
     }
   },
-  "active": "b65c9a61741d1383",
+  "active": "7c6de26c464438fd",
   "lastOpenFiles": [
-    "psychology/CBT/coping_cards/Relations.md",
-    "psychology/CBT/coping_cards/Friends.md",
-    "psychology/CBT/coping_cards/Self-perception.md",
-    "psychology/CBT/coping_cards/Emotions.md",
     "psychology/CBT/coping_cards/World.md",
-    "psychology/CBT/coping_cards/Marriage.md",
+    "psychology/CBT/coping_cards/Self-perception.md",
+    "psychology/CBT/coping_cards/_main.md",
+    "psychology/CBT/coping_cards/Relations.md",
     "psychology/CBT/coping_cards/Parenthood.md",
-    "psychology/CBT/coping_cards/Future.md",
+    "psychology/CBT/coping_cards/Marriage.md",
     "psychology/CBT/coping_cards/Life.md",
+    "psychology/CBT/coping_cards/Future.md",
+    "psychology/CBT/coping_cards/Friends.md",
+    "psychology/CBT/coping_cards/Emotions.md",
+    "forest_story/01 - The beginning.md",
+    "forest_story/02 - Left from the meadow.md",
     "psychology/CBT/automatic_thoughts/002_Blocked user.md",
     "psychology/CBT/automatic_thoughts/001_Failed at work.md",
     "psychology/CBT/automatic_thoughts/000_Template.md",
     "psychology/CBT/coping_cards",
     "markdown_practice/Test.md",
-    "forest_story/01 - The beginning.md",
     "psychology/CBT/automatic_thoughts",
     "psychology/CBT",
     "psychology",
     "forest_story/06 - The cave inside.md",
     "forest_story/05 - The cave entrance.md",
     "forest_story/03 - Right from the meadow.md",
-    "forest_story/02 - Left from the meadow.md",
     "forest_story/04 - The brook.md",
     "плагины.md",
     "README.md",
