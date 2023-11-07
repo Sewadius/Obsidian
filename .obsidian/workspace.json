@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "a9448f52005dfbd3",
+        "id": "1eab154d65408071",
         "type": "tabs",
         "children": [
           {
-            "id": "7c6de26c464438fd",
+            "id": "66848b76aad84b13",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "psychology/CBT/coping_cards/_main.md",
+                "file": "psychology/CBT/questions/_main.md",
                 "mode": "preview",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "psychology/CBT/coping_cards/_main.md",
+                "file": "psychology/CBT/questions/_main.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "psychology/CBT/coping_cards/_main.md",
+                "file": "psychology/CBT/questions/_main.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "psychology/CBT/coping_cards/_main.md"
+                "file": "psychology/CBT/questions/_main.md"
               }
             }
           }
@@ -148,35 +148,39 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "7c6de26c464438fd",
+  "active": "66848b76aad84b13",
   "lastOpenFiles": [
-    "psychology/CBT/coping_cards/World.md",
-    "psychology/CBT/coping_cards/Self-perception.md",
+    "psychology/CBT/questions/013_Inner dialog.md",
+    "psychology/CBT/questions/_main.md",
+    "psychology/CBT/questions/012_Emotional contact.md",
+    "psychology/CBT/questions/011_Self-interest.md",
+    "psychology/CBT/questions/010_Curiosity.md",
+    "psychology/CBT/questions/009_Personal boundaries.md",
+    "psychology/CBT/questions/008_Idealizing people.md",
+    "psychology/CBT/questions/007_Diary keeping.md",
+    "psychology/CBT/questions/006_Mindfulness.md",
+    "psychology/CBT/questions/005_Perfectionism.md",
+    "psychology/CBT/questions/004_Self-compassion.md",
+    "psychology/CBT/questions/003_Empathy.md",
+    "psychology/CBT/questions/002_Active listening.md",
+    "psychology/CBT/questions/001_Interest in others.md",
+    "004_Self-compassionПрактикуйте самосострадание.md",
     "psychology/CBT/coping_cards/_main.md",
     "psychology/CBT/coping_cards/Relations.md",
+    "psychology/CBT/questions",
     "psychology/CBT/coping_cards/Parenthood.md",
     "psychology/CBT/coping_cards/Marriage.md",
     "psychology/CBT/coping_cards/Life.md",
     "psychology/CBT/coping_cards/Future.md",
     "psychology/CBT/coping_cards/Friends.md",
     "psychology/CBT/coping_cards/Emotions.md",
+    "psychology/CBT/coping_cards/World.md",
+    "psychology/CBT/coping_cards/Self-perception.md",
     "forest_story/01 - The beginning.md",
-    "forest_story/02 - Left from the meadow.md",
-    "psychology/CBT/automatic_thoughts/002_Blocked user.md",
-    "psychology/CBT/automatic_thoughts/001_Failed at work.md",
-    "psychology/CBT/automatic_thoughts/000_Template.md",
     "psychology/CBT/coping_cards",
-    "markdown_practice/Test.md",
     "psychology/CBT/automatic_thoughts",
     "psychology/CBT",
     "psychology",
-    "forest_story/06 - The cave inside.md",
-    "forest_story/05 - The cave entrance.md",
-    "forest_story/03 - Right from the meadow.md",
-    "forest_story/04 - The brook.md",
-    "плагины.md",
-    "README.md",
-    "Scripts/my_script.js.md",
     "Scripts/my_script.js",
     "Scripts",
     "forest_story",
