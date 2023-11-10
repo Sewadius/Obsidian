@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "psychology/CBT/questions/_main.md",
-                "mode": "preview",
+                "file": "psychology/CBT/coping_cards/World.md",
+                "mode": "source",
                 "source": false
               }
             }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "psychology/CBT/questions/_main.md",
+                "file": "psychology/CBT/coping_cards/World.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "psychology/CBT/questions/_main.md",
+                "file": "psychology/CBT/coping_cards/World.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "psychology/CBT/questions/_main.md"
+                "file": "psychology/CBT/coping_cards/World.md"
               }
             }
           }
@@ -150,8 +150,18 @@
   },
   "active": "66848b76aad84b13",
   "lastOpenFiles": [
-    "psychology/CBT/questions/013_Inner dialog.md",
+    "psychology/CBT/coping_cards/Emotions.md",
+    "psychology/CBT/coping_cards/Relations.md",
+    "psychology/CBT/coping_cards/Self-perception.md",
+    "psychology/CBT/coping_cards/World.md",
+    "psychology/CBT/coping_cards/_main.md",
+    "psychology/CBT/coping_cards/Parenthood.md",
+    "psychology/CBT/coping_cards/Marriage.md",
+    "psychology/CBT/coping_cards/Life.md",
+    "psychology/CBT/coping_cards/Future.md",
+    "psychology/CBT/coping_cards/Friends.md",
     "psychology/CBT/questions/_main.md",
+    "psychology/CBT/questions/013_Inner dialog.md",
     "psychology/CBT/questions/012_Emotional contact.md",
     "psychology/CBT/questions/011_Self-interest.md",
     "psychology/CBT/questions/010_Curiosity.md",
@@ -165,17 +175,7 @@
     "psychology/CBT/questions/002_Active listening.md",
     "psychology/CBT/questions/001_Interest in others.md",
     "004_Self-compassionПрактикуйте самосострадание.md",
-    "psychology/CBT/coping_cards/_main.md",
-    "psychology/CBT/coping_cards/Relations.md",
     "psychology/CBT/questions",
-    "psychology/CBT/coping_cards/Parenthood.md",
-    "psychology/CBT/coping_cards/Marriage.md",
-    "psychology/CBT/coping_cards/Life.md",
-    "psychology/CBT/coping_cards/Future.md",
-    "psychology/CBT/coping_cards/Friends.md",
-    "psychology/CBT/coping_cards/Emotions.md",
-    "psychology/CBT/coping_cards/World.md",
-    "psychology/CBT/coping_cards/Self-perception.md",
     "forest_story/01 - The beginning.md",
     "psychology/CBT/coping_cards",
     "psychology/CBT/automatic_thoughts",
