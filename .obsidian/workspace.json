@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "psychology/CBT/coping_cards/World.md",
+                "file": "psychology/CBT/coping_cards/Emotions.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "psychology/CBT/coping_cards/World.md",
+                "file": "psychology/CBT/coping_cards/Emotions.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "psychology/CBT/coping_cards/World.md",
+                "file": "psychology/CBT/coping_cards/Emotions.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "psychology/CBT/coping_cards/World.md"
+                "file": "psychology/CBT/coping_cards/Emotions.md"
               }
             }
           }
@@ -150,16 +150,22 @@
   },
   "active": "66848b76aad84b13",
   "lastOpenFiles": [
+    "psychology/CBT/homework/001_Impotance - бессилие.md",
+    "obsession_story/001 - Ник.md",
+    "obsession_story",
+    "psychology/CBT/coping_cards/Self-perception.md",
+    "psychology/CBT/homework",
+    "psychology/CBT/automatic_thoughts/002_Blocked user.md",
+    "psychology/CBT/coping_cards/Friends.md",
+    "psychology/CBT/coping_cards/Parenthood.md",
+    "psychology/CBT/automatic_thoughts/001_Failed at work.md",
+    "psychology/CBT/coping_cards/World.md",
     "psychology/CBT/coping_cards/Emotions.md",
     "psychology/CBT/coping_cards/Relations.md",
-    "psychology/CBT/coping_cards/Self-perception.md",
-    "psychology/CBT/coping_cards/World.md",
     "psychology/CBT/coping_cards/_main.md",
-    "psychology/CBT/coping_cards/Parenthood.md",
     "psychology/CBT/coping_cards/Marriage.md",
     "psychology/CBT/coping_cards/Life.md",
     "psychology/CBT/coping_cards/Future.md",
-    "psychology/CBT/coping_cards/Friends.md",
     "psychology/CBT/questions/_main.md",
     "psychology/CBT/questions/013_Inner dialog.md",
     "psychology/CBT/questions/012_Emotional contact.md",
@@ -172,11 +178,7 @@
     "psychology/CBT/questions/005_Perfectionism.md",
     "psychology/CBT/questions/004_Self-compassion.md",
     "psychology/CBT/questions/003_Empathy.md",
-    "psychology/CBT/questions/002_Active listening.md",
-    "psychology/CBT/questions/001_Interest in others.md",
-    "004_Self-compassionПрактикуйте самосострадание.md",
     "psychology/CBT/questions",
-    "forest_story/01 - The beginning.md",
     "psychology/CBT/coping_cards",
     "psychology/CBT/automatic_thoughts",
     "psychology/CBT",
@@ -184,7 +186,6 @@
     "Scripts/my_script.js",
     "Scripts",
     "forest_story",
-    "markdown_practice/Без названия.canvas",
-    "markdown_practice"
+    "markdown_practice/Без названия.canvas"
   ]
 }
