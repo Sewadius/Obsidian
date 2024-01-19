@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "psychology/CBT/coping_cards/Friends.md",
+                "file": "stories/001 - Mother.md",
                 "mode": "preview",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "psychology/CBT/coping_cards/Friends.md",
+                "file": "stories/001 - Mother.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "psychology/CBT/coping_cards/Friends.md",
+                "file": "stories/001 - Mother.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "psychology/CBT/coping_cards/Friends.md"
+                "file": "stories/001 - Mother.md"
               }
             }
           }
@@ -150,9 +150,10 @@
   },
   "active": "a4366cc5a273a069",
   "lastOpenFiles": [
-    "psychology/CBT/coping_cards/Emotions.md",
     "psychology/CBT/coping_cards/Future.md",
     "psychology/CBT/coping_cards/Friends.md",
+    "stories/001 - Mother.md",
+    "psychology/CBT/coping_cards/Emotions.md",
     "psychology/CBT/coping_cards/Relations.md",
     "psychology/CBT/coping_cards/Marriage.md",
     "psychology/CBT/coping_cards/Life.md",
@@ -160,10 +161,9 @@
     "README.md",
     "psychology/CBT/homework/001_Impotance - бессилие.md",
     "psychology/CBT/automatic_thoughts/002_Blocked user.md",
-    "obsession_story/001 - Ник.md",
     "forest_story/01 - The beginning.md",
     "markdown_practice/Test.md",
-    "obsession_story",
+    "stories",
     "psychology/CBT/coping_cards/Self-perception.md",
     "psychology/CBT/homework",
     "psychology/CBT/coping_cards/Parenthood.md",
